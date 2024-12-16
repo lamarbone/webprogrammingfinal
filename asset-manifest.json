@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webprogrammingfinal/static/css/main.a4dc8d11.css",
+    "main.js": "/webprogrammingfinal/static/js/main.d77fc737.js",
+    "static/media/silvermoon.png": "/webprogrammingfinal/static/media/silvermoon.2ed9f782bd1c9d0cf39d.png",
+    "static/media/horde-background.png": "/webprogrammingfinal/static/media/horde-background.b06394d80222650e6ac1.png",
+    "static/media/thunderbluff.png": "/webprogrammingfinal/static/media/thunderbluff.41a06f75c8066b2b699b.png",
+    "static/media/guldan.png": "/webprogrammingfinal/static/media/guldan.25fd46646ba460c9f3d4.png",
+    "static/media/orgrimmar.png": "/webprogrammingfinal/static/media/orgrimmar.aaa1bbcc2ee90d307685.png",
+    "static/media/voljin.png": "/webprogrammingfinal/static/media/voljin.853fc45bb450ec51ec69.png",
+    "static/media/baine.png": "/webprogrammingfinal/static/media/baine.763a30ebbabc73c37ed3.png",
+    "static/media/thrall.png": "/webprogrammingfinal/static/media/thrall.1a556c3318d497262586.png",
+    "static/media/undercity.png": "/webprogrammingfinal/static/media/undercity.5e3ec0519d6150a38d2a.png",
+    "static/media/sylvanas.png": "/webprogrammingfinal/static/media/sylvanas.4efd5e0e547cf92d98af.png",
+    "static/media/horde-logo.png": "/webprogrammingfinal/static/media/horde-logo.0ebf81df839f4a9806a8.png",
+    "index.html": "/webprogrammingfinal/index.html",
+    "main.a4dc8d11.css.map": "/webprogrammingfinal/static/css/main.a4dc8d11.css.map",
+    "main.d77fc737.js.map": "/webprogrammingfinal/static/js/main.d77fc737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4dc8d11.css",
+    "static/js/main.d77fc737.js"
+  ]
+}
