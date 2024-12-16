@@ -1,0 +1,52 @@
+
+.characters-page {
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: #f0f0f0;
+  }
+  
+  .characters-page h2 {
+    font-size: 2.5rem;
+    color: #d32f2f;
+    text-align: center;
+  }
+  
+  .characters-page p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  
+  .character-profile {
+    display: flex;
+    align-items: center;
+    margin: 2rem 0;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .character-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    margin-right: 2rem;
+  }
+  
+  .character-profile h3 {
+    font-size: 2rem;
+    color: #ffcc00;
+    margin-bottom: 1rem;
+  }
+  
+  .character-profile div {
+    max-width: 800px;
+  }
+  
+  .character-profile p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  

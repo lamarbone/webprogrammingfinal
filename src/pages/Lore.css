@@ -1,0 +1,33 @@
+/* Lore Page Styles */
+.lore-page {
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  color: #f0f0f0;
+}
+
+.lore-page h2 {
+  font-size: 2.5rem;
+  color: #d32f2f;
+  text-align: center;
+}
+
+.lore-page section {
+  margin: 2rem 0;
+}
+
+.lore-page h3 {
+  font-size: 2rem;
+  color: #ffcc00;
+}
+
+.lore-page p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.lore-page ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+}
